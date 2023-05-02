@@ -1,4 +1,4 @@
 # university_C
 * Yuhan Univ. C Language
- * 학번
- * 이름
+ * 202327034
+ * 박태원
